@@ -48,6 +48,7 @@ stem(n,Rx_sequence)
 legend('Original Signal','Signal with AWGN')
 
 %% 
+
 %(5)-Convolution:
 %A - Normal Conv:
 h_mf = 0.1*(S1 - S2);
